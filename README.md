@@ -1,0 +1,2 @@
+# JavaProgram
+Calculate percentage
